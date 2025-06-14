@@ -1,0 +1,3 @@
+Main-Class: App.Main
+Class-Path: lib/LGoodDatePicker-11.2.1.jar
+
